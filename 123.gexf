@@ -1,0 +1,1644 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-01-30">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="score_range" title="Score_range" type="string"></attribute>
+      <attribute id="x mentioned category 1:" title="x Mentioned Category 1:" type="string"></attribute>
+      <attribute id="goals" title="Goals" type="string"></attribute>
+      <attribute id="skills" title="Skills" type="string"></attribute>
+      <attribute id="about:" title="About:" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Aldor" label="Aldor">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="design"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I expect to learn the why, how and what of the visualization of data. Thinking of the why in order to create meaningful visualizations and the how &amp; what to learn the programming and design that is involved. "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 7 Statistics: 3 Math: 3 Arts: 9 Computer Usage: 6 Programming: 2 Computer Graphics: 1 HCI: 4 UX: 8"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="-12.140902" y="-377.4151"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="546" label="Design">
+        <attvalues>
+          <attvalue for="about:" value="These people showed interest in design, illustration, 3D modeling, graphic arts. "></attvalue>
+        </attvalues>
+        <viz:size value="68.78049"></viz:size>
+        <viz:position x="45.235344" y="-482.71796"></viz:position>
+        <viz:color r="255" g="194" b="21"></viz:color>
+      </node>
+      <node id="Aragorn" label="Aragorn">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="gen_stuff"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I am working on several personal projects that I expect to translate into business ideas. A good design is a key point for the success of these ideas, so I expect that I can apply what I learn in this course to seduce potential users with a jaw-dropping representation of data."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 5 Statistics: 4 Math: 3 Arts: 6 Computer Usage: 7 Programming: 3 Computer Graphics: 1 HCI: 4 UX: 8"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="-160.63951" y="-86.30422"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="gen_stuff" label="General Knowledge">
+        <attvalues>
+          <attvalue for="about:" value="These people expressed interest about broad subjects, like astronomy, science, politics, human-rights. "></attvalue>
+        </attvalues>
+        <viz:size value="49.268295"></viz:size>
+        <viz:position x="-166.2998" y="-446.52637"></viz:position>
+        <viz:color r="255" g="194" b="21"></viz:color>
+      </node>
+      <node id="Foodies" label="Foodies">
+        <attvalues>
+          <attvalue for="about:" value="These people showed special interest for food-related matters. They talked about cooking, coffee and beer. "></attvalue>
+        </attvalues>
+        <viz:size value="45.365852"></viz:size>
+        <viz:position x="-320.48264" y="121.91434"></viz:position>
+        <viz:color r="255" g="194" b="21"></viz:color>
+      </node>
+      <node id="Sports" label="Sports">
+        <attvalues>
+          <attvalue for="about:" value="These people showed interest in sports, in a broad range, from soccer, to gym, to skydiving, to equestrian sports.  "></attvalue>
+        </attvalues>
+        <viz:size value="60.97561"></viz:size>
+        <viz:position x="-155.5423" y="255.25058"></viz:position>
+        <viz:color r="255" g="194" b="21"></viz:color>
+      </node>
+      <node id="Arwen" label="Arwen">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="~_null"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+How to design systems which are more user-centered."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 3 Math: 3 Arts: 3 Computer Usage: 8 Programming: 8 Computer Graphics: 3 HCI: 3 UX: 3"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="52.261627" y="316.3864"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="~_null" label="Null">
+        <attvalues>
+          <attvalue for="about:" value="These people did not answer about hobbies. "></attvalue>
+        </attvalues>
+        <viz:size value="41.463417"></viz:size>
+        <viz:position x="188.0947" y="399.61438"></viz:position>
+        <viz:color r="255" g="194" b="21"></viz:color>
+      </node>
+      <node id="Balin" label="Balin">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="design"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+To be honest I am not quite sure. Seems like a good course for combining &quot;pretty&quot; with &quot;tech&quot;. "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 4 Math: 4 Arts: 6 Computer Usage: 8 Programming: 2 Computer Graphics: 1 HCI: 2 UX: 7"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="58.2763" y="-343.56317"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Bereg" label="Bereg">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="gen_stuff"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+To handle and present information in a structured way."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 5 Math: 6 Arts: 8 Computer Usage: 6 Programming: 3 Computer Graphics: 5 HCI: 3 UX: 5"></attvalue>
+        </attvalues>
+        <viz:size value="25.853659"></viz:size>
+        <viz:position x="-205.30043" y="-242.83932"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="travel" label="Travel">
+        <attvalues>
+          <attvalue for="about:" value="These people like to travel and expressed this in the survey. "></attvalue>
+        </attvalues>
+        <viz:size value="35.609756"></viz:size>
+        <viz:position x="-331.53714" y="-326.93246"></viz:position>
+        <viz:color r="255" g="194" b="21"></viz:color>
+      </node>
+      <node id="Bifur" label="Bifur">
+        <attvalues>
+          <attvalue for="score_range" value="60-70"></attvalue>
+          <attvalue for="x mentioned category 1:" value="design"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Learn: New programming skills, new softwares, learning different visualization methods, being able to more easily see what model is most relevant for showing the data. Teambuilding.
+Future: Use it when analyzing and selling. I want to run my own business some day and this is a great tool to have. "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 4 Statistics: 4 Math: 5 Arts: 6 Computer Usage: 10 Programming: 7 Computer Graphics: 7 HCI: 6 UX: 7"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="219.3018" y="-189.61862"></viz:position>
+        <viz:color r="47" g="56" b="91"></viz:color>
+      </node>
+      <node id="Techies" label="Techies">
+        <attvalues>
+          <attvalue for="about:" value="These people expressed interest in technology. They mentioned programming, web developing, interest in gadgets. "></attvalue>
+        </attvalues>
+        <viz:size value="76.585365"></viz:size>
+        <viz:position x="291.61783" y="121.67566"></viz:position>
+        <viz:color r="255" g="194" b="21"></viz:color>
+      </node>
+      <node id="Bilbo" label="Bilbo">
+        <attvalues>
+          <attvalue for="score_range" value="60-70"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Techies"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I expect to be more comfortable in visually interpreting huge amount of data. I am comfortable with d3 but would like to work on integrating it with WebGL, if possible."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 6 Statistics: 5 Math: 8 Arts: 7 Computer Usage: 8 Programming: 7 Computer Graphics: 7 HCI: 7 UX: 8"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="262.4876" y="-238.47133"></viz:position>
+        <viz:color r="47" g="56" b="91"></viz:color>
+      </node>
+      <node id="Bofur" label="Bofur">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="~_null"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I expect that at the end of the course I'll be able to create information visualisation systems for complex data which will make it easier to read and comprehend. Since my specialisation track is Data Science, it will be a good skill to have. "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 4 Statistics: 4 Math: 6 Arts: 5 Computer Usage: 7 Programming: 7 Computer Graphics: 3 HCI: 3 UX: 2"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="262.27463" y="245.7117"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Bombadil" label="Bombadil">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="travel"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I am hoping to learn a lot of practical skills (e.g. different tools that can be used for visualization) as well as the theory of what is &quot;good&quot; visualization. I am extremely interested in using information visualization to help people better understand concepts (I have been a big fan of the New York Times digital team even before the first class)."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 4 Statistics: 6 Math: 6 Arts: 2 Computer Usage: 6 Programming: 5 Computer Graphics: 1 HCI: 5 UX: 8"></attvalue>
+        </attvalues>
+        <viz:size value="27.804878"></viz:size>
+        <viz:position x="-249.32866" y="-98.827545"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Bombur" label="Bombur">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Sports"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+To get to know different tools for visualizing information and to know how to choose what information to be shown."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 1 Statistics: 4 Math: 5 Arts: 10 Computer Usage: 7 Programming: 4 Computer Graphics: 2 HCI: 3 UX: 6"></attvalue>
+        </attvalues>
+        <viz:size value="25.853659"></viz:size>
+        <viz:position x="-68.79437" y="8.147402"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Borin" label="Borin">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Arts/entertainment"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Techniques: How to create Trees and Networks. What are Dynamic Queries. What is Interactive Data Analysis. How to visualize Overview and Detail. What are Fisheye Views. What is a Bifocal Lens. What a Visual Transfer Function. How to Map Data in 1D, 2D and 3D. How to use Color. How to create Angular Treemaps. What are Edge Equalized Treemaps. What is the Forest Metaphor. 
+Programming: What is D3 and how to use it. How to use JSON for Geomapping. Can I understand Phython, Map/Reduce, and Hadoop as non-mathetician and is it actually necessary? 
+Meaning: How to get a Big Picture through Searching and Discovery. How to tell a Visual Story from a Questions, Visual Data and Context. How really enhance Human Cognition and not just do eye-candy-beautification.
+Application: Can I visualize Financial Flows (e.g., into Tax Haven Destinations) and relevant Triggers (i.e., human actors, companies, banks), animate this so I can also visualize consequences of these flows, short- and long-term, extrapolated into the Future. Why: to enable understanding and support Decision Making (one idea).
+Input: Where to get all the data from and not repeat trivial relationships in a more beauty way."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 2 Statistics: 4 Math: 2 Arts: 6 Computer Usage: 6 Programming: 2 Computer Graphics: 1 HCI: 4 UX: 10"></attvalue>
+        </attvalues>
+        <viz:size value="27.804878"></viz:size>
+        <viz:position x="-89.88705" y="-316.98126"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Boromir" label="Boromir">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Techies"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Learn technique to display high dimensional data in an intuitive manner.
+Utilize D3.js to implement some modern visualizations, and perhaps create some of my own."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 5 Math: 5 Arts: 1 Computer Usage: 7 Programming: 8 Computer Graphics: 2 HCI: 6 UX: 5"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="238.29543" y="1.042485"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Bounder" label="Bounder">
+        <attvalues>
+          <attvalue for="score_range" value="60-70"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Graphic Arts"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+A whole thorough workflow of information visualization from scratch to the end."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 9 Math: 9 Arts: 3 Computer Usage: 10 Programming: 10 Computer Graphics: 3 HCI: 3 UX: 9"></attvalue>
+        </attvalues>
+        <viz:size value="25.853659"></viz:size>
+        <viz:position x="48.87028" y="-272.87643"></viz:position>
+        <viz:color r="47" g="56" b="91"></viz:color>
+      </node>
+      <node id="Celeborn" label="Celeborn">
+        <attvalues>
+          <attvalue for="score_range" value="50-60"></attvalue>
+          <attvalue for="x mentioned category 1:" value="gen_stuff"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I think information visualisation is a powerful tool (that is on the rise) in order to help people understand different kinds of connections and causes. Especielly in a world of big data, this feels really relevant. I expect to learn how to present information depending on the data, i.e. what kind of data you have determines how you visualise it - not all kinds of data fits in the same kind of visualisation."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 7 Statistics: 6 Math: 5 Arts: 6 Computer Usage: 8 Programming: 4 Computer Graphics: 1 HCI: 6 UX: 7"></attvalue>
+        </attvalues>
+        <viz:size value="27.804878"></viz:size>
+        <viz:position x="-175.13817" y="-165.9408"></viz:position>
+        <viz:color r="74" g="100" b="145"></viz:color>
+      </node>
+      <node id="Damrod" label="Damrod">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="~_null"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I want to learn more about how to use visualization as a tool in interaction design and improve my skills in simplifying, personalizing and presenting data. As an interaction designer, I believe that a better knowledge of visualization will be very helpful for my further studies.  "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 2 Math: 5 Arts: 6 Computer Usage: 7 Programming: 1 Computer Graphics: 2 HCI: 3 UX: 8"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="305.00806" y="296.7295"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Deagol" label="Deagol">
+        <attvalues>
+          <attvalue for="score_range" value="30-40"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Arts/entertainment"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Learn to display data (possibly in many dimensions) in a clear way."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 1 Statistics: 3 Math: 3 Arts: 5 Computer Usage: 8 Programming: 5 Computer Graphics: 1 HCI: 1 UX: 2"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="-113.4126" y="61.612103"></viz:position>
+        <viz:color r="208" g="228" b="242"></viz:color>
+      </node>
+      <node id="Denethor" label="Denethor">
+        <attvalues>
+          <attvalue for="score_range" value="60-70"></attvalue>
+          <attvalue for="x mentioned category 1:" value="~_null"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+ I hope I could learn some fancy skills in visualization and make out some useful visualization system"></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 7 Statistics: 8 Math: 6 Arts: 2 Computer Usage: 8 Programming: 9 Computer Graphics: 6 HCI: 3 UX: 6"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="200.58818" y="250.38321"></viz:position>
+        <viz:color r="47" g="56" b="91"></viz:color>
+      </node>
+      <node id="Dorlas" label="Dorlas">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="~_null"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I want to learn how to visualize &quot;boring&quot; data to make it fun, interactive and interesting. I would like to learn more about programming since it was a while ago I coded. "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 4 Statistics: 4 Math: 4 Arts: 6 Computer Usage: 5 Programming: 4 Computer Graphics: 1 HCI: 5 UX: 6"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="184.66705" y="307.72662"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Dwalin" label="Dwalin">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Arts/entertainment"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Expect to learn how to visualize information in a good way.  Expect to use the knowledge when working in the future."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 3 Math: 6 Arts: 7 Computer Usage: 7 Programming: 6 Computer Graphics: 1 HCI: 5 UX: 5"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="-254.82747" y="-294.3566"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Eldarion" label="Eldarion">
+        <attvalues>
+          <attvalue for="score_range" value="50-60"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Arts/entertainment"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+How to best present information based on what, where, when, for who etc. "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 4 Math: 9 Arts: 8 Computer Usage: 8 Programming: 3 Computer Graphics: 2 HCI: 8 UX: 9"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="-77.49205" y="140.93388"></viz:position>
+        <viz:color r="74" g="100" b="145"></viz:color>
+      </node>
+      <node id="Elendil" label="Elendil">
+        <attvalues>
+          <attvalue for="score_range" value="50-60"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Techies"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I expect to learn more about what forms of visualizations that are popular and effective and also be able to choose what form of visualization fits best for what type of data. I hope to be able to create these visualizations myself by code."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 5 Statistics: 3 Math: 5 Arts: 6 Computer Usage: 7 Programming: 7 Computer Graphics: 4 HCI: 6 UX: 5"></attvalue>
+        </attvalues>
+        <viz:size value="25.853659"></viz:size>
+        <viz:position x="154.55193" y="-142.96466"></viz:position>
+        <viz:color r="74" g="100" b="145"></viz:color>
+      </node>
+      <node id="games" label="Games">
+        <attvalues>
+          <attvalue for="about:" value="These people mentioned a particular interest in games, mostly PC and console, but also board games. "></attvalue>
+        </attvalues>
+        <viz:size value="47.317074"></viz:size>
+        <viz:position x="322.39407" y="-157.2466"></viz:position>
+        <viz:color r="255" g="194" b="21"></viz:color>
+      </node>
+      <node id="Elendur" label="Elendur">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="~_null"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+How you can visualise thing in clear and understandable ways for a user, making  information more easy to understand"></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 3 Math: 5 Arts: 2 Computer Usage: 7 Programming: 5 Computer Graphics: 2 HCI: 6 UX: 9"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="113.27265" y="311.2106"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Elrond" label="Elrond">
+        <attvalues>
+          <attvalue for="score_range" value="50-60"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Sports"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+How to visualize results from different statistical and heuristic methods so that non experts, eg. customers, boss, colleges ,can understand."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 10 Math: 8 Arts: 1 Computer Usage: 6 Programming: 9 Computer Graphics: 4 HCI: 3 UX: 3"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="136.20193" y="77.13252"></viz:position>
+        <viz:color r="74" g="100" b="145"></viz:color>
+      </node>
+      <node id="Eomer" label="Eomer">
+        <attvalues>
+          <attvalue for="score_range" value="60-70"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Graphic Arts"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Various vis technique to be applied in industry and neural network."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 7 Statistics: 9 Math: 7 Arts: 3 Computer Usage: 9 Programming: 8 Computer Graphics: 7 HCI: 6 UX: 1"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="17.357414" y="-203.24472"></viz:position>
+        <viz:color r="47" g="56" b="91"></viz:color>
+      </node>
+      <node id="Eothain" label="Eothain">
+        <attvalues>
+          <attvalue for="score_range" value="50-60"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Arts/entertainment"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+As of today, there is &quot;some slight misuse&quot; of everything from statistic data to pure crappy data representations out in our society. After this course I want to be able to choose a good way of visualizing data (useful for more than my graduation work..) and also being able to interpret other peoples visualizations. My artistic skills are not that great, and getting a push here and practicing might be a healthy bonus."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 5 Statistics: 5 Math: 7 Arts: 4 Computer Usage: 9 Programming: 9 Computer Graphics: 8 HCI: 4 UX: 3"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="192.87804" y="-49.834614"></viz:position>
+        <viz:color r="74" g="100" b="145"></viz:color>
+      </node>
+      <node id="Eowyn" label="Eowyn">
+        <attvalues>
+          <attvalue for="score_range" value="30-40"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Arts/entertainment"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I want to be able to present information in an interactive way that enables the viewer to understand the information presented."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 2 Statistics: 4 Math: 4 Arts: 4 Computer Usage: 4 Programming: 2 Computer Graphics: 6 HCI: 4 UX: 4"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="-303.42642" y="-247.10376"></viz:position>
+        <viz:color r="208" g="228" b="242"></viz:color>
+      </node>
+      <node id="Faramir" label="Faramir">
+        <attvalues>
+          <attvalue for="score_range" value="60-70"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Graphic Arts"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I want better ways of expression. "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 5 Statistics: 4 Math: 8 Arts: 7 Computer Usage: 9 Programming: 8 Computer Graphics: 5 HCI: 6 UX: 6"></attvalue>
+        </attvalues>
+        <viz:size value="25.853659"></viz:size>
+        <viz:position x="-92.101036" y="-66.51346"></viz:position>
+        <viz:color r="47" g="56" b="91"></viz:color>
+      </node>
+      <node id="Ferny" label="Ferny">
+        <attvalues>
+          <attvalue for="score_range" value="30-40"></attvalue>
+          <attvalue for="x mentioned category 1:" value="design"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+D3.js, how to effectively convey large amounts of information. Hopefully both at my current job and later in my career"></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 5 Statistics: 2 Math: 3 Arts: 4 Computer Usage: 8 Programming: 5 Computer Graphics: 3 HCI: 4 UX: 1"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="-81.06548" y="-392.4344"></viz:position>
+        <viz:color r="208" g="228" b="242"></viz:color>
+      </node>
+      <node id="Fili" label="Fili">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Techies"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I would like to learn more about how to visualize information and data in simple, forseeable and comprehensible ways."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 5 Statistics: 5 Math: 5 Arts: 4 Computer Usage: 5 Programming: 5 Computer Graphics: 4 HCI: 5 UX: 5"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="129.17668" y="-4.423934"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Freda" label="Freda">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Graphic Arts"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Learn new and explorative ways to represent and visualise data effectively. New techniques, concepts and skills to help provide informative visuals in both academic and career prospects. "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 3 Math: 9 Arts: 7 Computer Usage: 7 Programming: 2 Computer Graphics: 2 HCI: 3 UX: 8"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="-17.596369" y="-311.39514"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Frodo" label="Frodo">
+        <attvalues>
+          <attvalue for="score_range" value="30-40"></attvalue>
+          <attvalue for="x mentioned category 1:" value="design"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Learn the basics of how you visualize big data into understandable graphs "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 3 Math: 4 Arts: 4 Computer Usage: 6 Programming: 5 Computer Graphics: 3 HCI: 4 UX: 3"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="-42.971046" y="-249.6301"></viz:position>
+        <viz:color r="208" g="228" b="242"></viz:color>
+      </node>
+      <node id="Galadriel" label="Galadriel">
+        <attvalues>
+          <attvalue for="score_range" value="60-70"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Techies"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I intend to understand and produce brilliant information projects that can be used to understand the knowledge that is there over the internet. I intend to apply and publish information that is meaningful. I have tried to present such information from twitter feed etc but I have lacked in creating truly relevant and meaningful content. I hope to review and correct my short comings."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 7 Statistics: 5 Math: 6 Arts: 7 Computer Usage: 9 Programming: 8 Computer Graphics: 7 HCI: 8 UX: 5"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="19.199226" y="206.1961"></viz:position>
+        <viz:color r="47" g="56" b="91"></viz:color>
+      </node>
+      <node id="Gamgee" label="Gamgee">
+        <attvalues>
+          <attvalue for="score_range" value="30-40"></attvalue>
+          <attvalue for="x mentioned category 1:" value="games"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I wish to learn more about how to think when making design choices as well as how to implement them."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 2 Statistics: 4 Math: 6 Arts: 2 Computer Usage: 7 Programming: 6 Computer Graphics: 2 HCI: 4 UX: 3"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="143.7625" y="-414.20636"></viz:position>
+        <viz:color r="208" g="228" b="242"></viz:color>
+      </node>
+      <node id="Gandalf" label="Gandalf">
+        <attvalues>
+          <attvalue for="score_range" value="50-60"></attvalue>
+          <attvalue for="x mentioned category 1:" value="~_null"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I expect to learn fun and innovative ways of representing data. I plan on using the skills I learn in future presentation and possibly my personal portfolio."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 4 Statistics: 6 Math: 8 Arts: 1 Computer Usage: 9 Programming: 8 Computer Graphics: 6 HCI: 5 UX: 5"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="173.51697" y="194.07515"></viz:position>
+        <viz:color r="74" g="100" b="145"></viz:color>
+      </node>
+      <node id="Gimli" label="Gimli">
+        <attvalues>
+          <attvalue for="score_range" value="30-40"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Sports"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Apply my interest and knowledge in design and painting to become professional in making presentations and visualizations"></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 3 Math: 4 Arts: 9 Computer Usage: 7 Programming: 1 Computer Graphics: 1 HCI: 1 UX: 1"></attvalue>
+        </attvalues>
+        <viz:size value="25.853659"></viz:size>
+        <viz:position x="62.44909" y="-35.152985"></viz:position>
+        <viz:color r="208" g="228" b="242"></viz:color>
+      </node>
+      <node id="Outdoor_Nature" label="Outdoor &amp; Nature">
+        <attvalues>
+          <attvalue for="about:" value="These people expressed interest in nature and environment, as well as handcraft and hunting. "></attvalue>
+        </attvalues>
+        <viz:size value="25.853659"></viz:size>
+        <viz:position x="228.82787" y="-118.38299"></viz:position>
+        <viz:color r="255" g="194" b="21"></viz:color>
+      </node>
+      <node id="Gollum" label="Gollum">
+        <attvalues>
+          <attvalue for="score_range" value="30-40"></attvalue>
+          <attvalue for="x mentioned category 1:" value="gen_stuff"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I have 2 goals in the course. The first one is to understand how aesthethics and design can help people make sense of the huge amount of data we generate every second. The other is more technical, to learn tools to create such graphics and visualizations."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 4 Statistics: 2 Math: 2 Arts: 4 Computer Usage: 9 Programming: 1 Computer Graphics: 1 HCI: 1 UX: 6"></attvalue>
+        </attvalues>
+        <viz:size value="27.804878"></viz:size>
+        <viz:position x="-97.584946" y="-150.93253"></viz:position>
+        <viz:color r="208" g="228" b="242"></viz:color>
+      </node>
+      <node id="Gorbag" label="Gorbag">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Techies"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I find the idea of transforming a huge data to easily understandable and visually stunning graphics really interesting. I want to learn how to make visualizations, how to group the data, learn about the related math topics and make visulalizations that can chance people's perspectives and mindsets.
+
+I think that visulization can be used for almost anything since everything can be used as data. I don't know if I will be inspired enough to use it in personal projects but I want to :) I would love to learn how to use visulization in my future work too."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 5 Statistics: 2 Math: 5 Arts: 5 Computer Usage: 9 Programming: 7 Computer Graphics: 3 HCI: 6 UX: 3"></attvalue>
+        </attvalues>
+        <viz:size value="25.853659"></viz:size>
+        <viz:position x="-19.88784" y="-48.178707"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Grimbold" label="Grimbold">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Foodies"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+How to properly portray data using visualization techniques. Common pitfalls when illustrating statistics. And common ways that people manipulate their agenda through data."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 4 Statistics: 4 Math: 7 Arts: 5 Computer Usage: 9 Programming: 6 Computer Graphics: 1 HCI: 1 UX: 4"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-340.6807" y="22.899345"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Grishnakh" label="Grishnakh">
+        <attvalues>
+          <attvalue for="score_range" value="50-60"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Techies"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+To be able to provide useful visualizations of machine learning solutions"></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 5 Statistics: 8 Math: 6 Arts: 2 Computer Usage: 7 Programming: 8 Computer Graphics: 5 HCI: 4 UX: 3"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="-51.122753" y="207.32834"></viz:position>
+        <viz:color r="74" g="100" b="145"></viz:color>
+      </node>
+      <node id="Haldir" label="Haldir">
+        <attvalues>
+          <attvalue for="score_range" value="30-40"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Sports"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I would love to learn more about Interactive Design and new softwares. I'm going to use it for product presentations."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 3 Math: 4 Arts: 7 Computer Usage: 8 Programming: 2 Computer Graphics: 1 HCI: 2 UX: 2"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="104.60457" y="198.52876"></viz:position>
+        <viz:color r="208" g="228" b="242"></viz:color>
+      </node>
+      <node id="Haleth" label="Haleth">
+        <attvalues>
+          <attvalue for="score_range" value="30-40"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Techies"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+How to visualize data in a good and easily comprehensible way "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 2 Statistics: 3 Math: 3 Arts: 4 Computer Usage: 6 Programming: 3 Computer Graphics: 1 HCI: 4 UX: 5"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="81.54706" y="40.958477"></viz:position>
+        <viz:color r="208" g="228" b="242"></viz:color>
+      </node>
+      <node id="Hama" label="Hama">
+        <attvalues>
+          <attvalue for="score_range" value="70-80"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Techies"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+practice my programming skills and abilities to use different softwares. Enrich my experience for graphics."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 7 Statistics: 8 Math: 8 Arts: 7 Computer Usage: 9 Programming: 8 Computer Graphics: 8 HCI: 7 UX: 8"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="137.91545" y="140.67078"></viz:position>
+        <viz:color r="26" g="30" b="43"></viz:color>
+      </node>
+      <node id="Hardang" label="Hardang">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="~_null"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I expect to learn how to use D3 or other technology for visualize the specific data which I want to show to other people  or related to my study for having better imagination of data. "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 2 Statistics: 4 Math: 7 Arts: 9 Computer Usage: 7 Programming: 2 Computer Graphics: 2 HCI: 3 UX: 8"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="358.16776" y="269.80154"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Idril" label="Idril">
+        <attvalues>
+          <attvalue for="score_range" value="50-60"></attvalue>
+          <attvalue for="x mentioned category 1:" value="~_null"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I want to learn some web visualization skills"></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 6 Statistics: 3 Math: 3 Arts: 8 Computer Usage: 10 Programming: 5 Computer Graphics: 3 HCI: 5 UX: 5"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="2.534284" y="275.42886"></viz:position>
+        <viz:color r="74" g="100" b="145"></viz:color>
+      </node>
+      <node id="Irolas" label="Irolas">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="gen_stuff"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Programming, virtual/mixed reality. Be able to decipher data easier and work with virtual reality and gaming."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 5 Statistics: 4 Math: 5 Arts: 2 Computer Usage: 7 Programming: 7 Computer Graphics: 4 HCI: 6 UX: 5"></attvalue>
+        </attvalues>
+        <viz:size value="25.853659"></viz:size>
+        <viz:position x="63.464104" y="-110.54207"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Isildur" label="Isildur">
+        <attvalues>
+          <attvalue for="score_range" value="50-60"></attvalue>
+          <attvalue for="x mentioned category 1:" value="games"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I want to learn how to display complex information in a very simple and understanding way. I  wish to use this knowledge to display complex relations in games to help players understand the consequences of their actions."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 4 Statistics: 5 Math: 5 Arts: 4 Computer Usage: 8 Programming: 8 Computer Graphics: 3 HCI: 5 UX: 5"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="129.65274" y="-72.06866"></viz:position>
+        <viz:color r="74" g="100" b="145"></viz:color>
+      </node>
+      <node id="Kili" label="Kili">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Arts/entertainment"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I will learn to analyze data and present in a thoughtful way that the reader understands it and perceives it correctly. I will use it in future project where I will have to present data and the analytical skills will be useful in my everyday life."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 5 Math: 5 Arts: 1 Computer Usage: 6 Programming: 6 Computer Graphics: 3 HCI: 5 UX: 8"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="-184.16003" y="66.8739"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Legolas" label="Legolas">
+        <attvalues>
+          <attvalue for="score_range" value="50-60"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Techies"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Different approaches to present different data and tell a story with that data, and also methods and frameworks to do it."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 4 Statistics: 4 Math: 4 Arts: 7 Computer Usage: 8 Programming: 8 Computer Graphics: 4 HCI: 4 UX: 4"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="59.751965" y="144.06927"></viz:position>
+        <viz:color r="74" g="100" b="145"></viz:color>
+      </node>
+      <node id="Lindir" label="Lindir">
+        <attvalues>
+          <attvalue for="score_range" value="30-40"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Arts/entertainment"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+To learn some basic technology how to visualize data and how to do that in a meaningful way. I like the idea of that we are creating mental images of information as I find this very effective. I hope I can use it it my future profession. "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 2 Statistics: 2 Math: 5 Arts: 2 Computer Usage: 7 Programming: 4 Computer Graphics: 1 HCI: 4 UX: 4"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="83.824135" y="-185.44803"></viz:position>
+        <viz:color r="208" g="228" b="242"></viz:color>
+      </node>
+      <node id="Lurtz" label="Lurtz">
+        <attvalues>
+          <attvalue for="score_range" value="50-60"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Sports"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I expect to learn best strategies for displaying information in intuitive and interactive ways. I'd like to be able to create visualizations that prompt users to ask questions about their data. I expect to learn through lectures and experimenting with different layouts myself. "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 6 Math: 7 Arts: 6 Computer Usage: 8 Programming: 8 Computer Graphics: 3 HCI: 4 UX: 5"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="-243.7982" y="23.624166"></viz:position>
+        <viz:color r="74" g="100" b="145"></viz:color>
+      </node>
+      <node id="Madril" label="Madril">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Arts/entertainment"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I expect to learn how to use different libraries to code and visualize large amounts of data in a educational way that is easy to perceive. "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 4 Statistics: 4 Math: 5 Arts: 4 Computer Usage: 9 Programming: 5 Computer Graphics: 2 HCI: 7 UX: 5"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="26.673138" y="84.38052"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Maiar" label="Maiar">
+        <attvalues>
+          <attvalue for="score_range" value="50-60"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Techies"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+What type of visualization goes with what &quot;kind&quot; of data, how you should think in terms of inteded users/audience. How to program interactive programs and using for example D3.js. &lt;- very interested in that part, you can make some cool things. I think I will be able to use everything I learn in this course in future projects and later at work."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 6 Statistics: 5 Math: 5 Arts: 7 Computer Usage: 7 Programming: 4 Computer Graphics: 2 HCI: 5 UX: 6"></attvalue>
+        </attvalues>
+        <viz:size value="27.804878"></viz:size>
+        <viz:position x="-18.073826" y="-125.719505"></viz:position>
+        <viz:color r="74" g="100" b="145"></viz:color>
+      </node>
+      <node id="Mauhur" label="Mauhur">
+        <attvalues>
+          <attvalue for="score_range" value="50-60"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Techies"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Which techniques to visualize information works better for which situations. Also I'd like to learn more tools to visualize information (like d3.js) I expect to keep these skills for a long time and that they help me be more awesome in my future career "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 7 Statistics: 2 Math: 5 Arts: 8 Computer Usage: 9 Programming: 6 Computer Graphics: 2 HCI: 6 UX: 7"></attvalue>
+        </attvalues>
+        <viz:size value="27.804878"></viz:size>
+        <viz:position x="122.30321" y="-289.40787"></viz:position>
+        <viz:color r="74" g="100" b="145"></viz:color>
+      </node>
+      <node id="Merry" label="Merry">
+        <attvalues>
+          <attvalue for="score_range" value="60-70"></attvalue>
+          <attvalue for="x mentioned category 1:" value="travel"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I am expecting to learn different ways of visualising and interacting with data which will help me to show and engage my product users and clients with precise information rather than assumptions when I become designer. "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 5 Statistics: 6 Math: 7 Arts: 8 Computer Usage: 7 Programming: 6 Computer Graphics: 4 HCI: 4 UX: 8"></attvalue>
+        </attvalues>
+        <viz:size value="25.853659"></viz:size>
+        <viz:position x="-259.2966" y="-178.41708"></viz:position>
+        <viz:color r="47" g="56" b="91"></viz:color>
+      </node>
+      <node id="Morwen" label="Morwen">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Sports"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I want to learn how to make an intuitive, well-designed representation of information that is of course visualized. I think what is learnt here can be used in many different contexts. I see that's it's about making sense of data, and in for example counter strike global offensive, you have lots of data that you can get from the game demos but the ways of representing it is limited. "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 5 Math: 4 Arts: 3 Computer Usage: 10 Programming: 6 Computer Graphics: 2 HCI: 7 UX: 5"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="9.398808" y="15.460949"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Nessa" label="Nessa">
+        <attvalues>
+          <attvalue for="score_range" value="10-20"></attvalue>
+          <attvalue for="x mentioned category 1:" value="design"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I want to learn more about graphic design, data representation, user-centered design, and information design. I'm interested to find out if this is something I want to work with in the future."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 1 Statistics: 1 Math: 1 Arts: 2 Computer Usage: 2 Programming: 1 Computer Graphics: 1 HCI: 1 UX: 2"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="193.59436" y="-275.82086"></viz:position>
+        <viz:color r="225" g="235" b="242"></viz:color>
+      </node>
+      <node id="Ohtar" label="Ohtar">
+        <attvalues>
+          <attvalue for="score_range" value="20-30"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Techies"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I would like to learn more how rendering works and how I can present data in a dynamic way to get the best user experience. I'm going to use the skills I learn when I in the future develop different kinds of applications."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 2 Statistics: 2 Math: 1 Arts: 3 Computer Usage: 4 Programming: 4 Computer Graphics: 1 HCI: 2 UX: 2"></attvalue>
+        </attvalues>
+        <viz:size value="27.804878"></viz:size>
+        <viz:position x="278.6341" y="-60.943356"></viz:position>
+        <viz:color r="225" g="235" b="242"></viz:color>
+      </node>
+      <node id="Oin" label="Oin">
+        <attvalues>
+          <attvalue for="score_range" value="70-80"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Arts/entertainment"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I expect to learn how to design an optimal and effective information visualization system depending on the type of data to represent and the user context."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 7 Statistics: 5 Math: 8 Arts: 5 Computer Usage: 8 Programming: 9 Computer Graphics: 7 HCI: 9 UX: 7"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="-167.4648" y="-321.73312"></viz:position>
+        <viz:color r="26" g="30" b="43"></viz:color>
+      </node>
+      <node id="Otho" label="Otho">
+        <attvalues>
+          <attvalue for="score_range" value="60-70"></attvalue>
+          <attvalue for="x mentioned category 1:" value="~_null"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Solid theory about visualizing datasets that I can apply in future work."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 6 Statistics: 3 Math: 4 Arts: 6 Computer Usage: 10 Programming: 7 Computer Graphics: 5 HCI: 9 UX: 7"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="61.52262" y="251.54439"></viz:position>
+        <viz:color r="47" g="56" b="91"></viz:color>
+      </node>
+      <node id="Pelendur" label="Pelendur">
+        <attvalues>
+          <attvalue for="score_range" value="30-40"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Arts/entertainment"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+How to make visualization like informationisbeautiful.com . I expect to learn it through practicing the methods taught in the course"></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 2 Statistics: 5 Math: 4 Arts: 3 Computer Usage: 4 Programming: 5 Computer Graphics: 4 HCI: 4 UX: 1"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="-206.58302" y="-36.514256"></viz:position>
+        <viz:color r="208" g="228" b="242"></viz:color>
+      </node>
+      <node id="Pippin" label="Pippin">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Graphic Arts"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+As the course name states, learn how to visualize information and data. I want to improve myself in the field of visualization."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 7 Statistics: 2 Math: 2 Arts: 8 Computer Usage: 10 Programming: 7 Computer Graphics: 2 HCI: 5 UX: 2"></attvalue>
+        </attvalues>
+        <viz:size value="25.853659"></viz:size>
+        <viz:position x="152.22058" y="-218.55579"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Quickbeam" label="Quickbeam">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="design"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+My expectation is to learn how to use my graphic design skills in combination with programming in order to create the visualization ideas that I have but not have the tools to create. I also hope to get a glimps in web design, and how to create websites."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 3 Math: 5 Arts: 8 Computer Usage: 8 Programming: 2 Computer Graphics: 3 HCI: 3 UX: 3"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="-236.6621" y="-362.43735"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Rian" label="Rian">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="games"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Don't know exactly, but how to present data and information in a good way "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 5 Math: 5 Arts: 2 Computer Usage: 8 Programming: 5 Computer Graphics: 3 HCI: 4 UX: 4"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="172.73819" y="-347.39648"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Sam" label="Sam">
+        <attvalues>
+          <attvalue for="score_range" value="50-60"></attvalue>
+          <attvalue for="x mentioned category 1:" value="~_null"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Better describe data from individual perspective "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 6 Statistics: 3 Math: 5 Arts: 9 Computer Usage: 8 Programming: 4 Computer Graphics: 4 HCI: 4 UX: 9"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="140.70302" y="254.47847"></viz:position>
+        <viz:color r="74" g="100" b="145"></viz:color>
+      </node>
+      <node id="Sauron" label="Sauron">
+        <attvalues>
+          <attvalue for="score_range" value="50-60"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Sports"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+We now that a good code behind is not what makes the customers buy the product. In fact it is the graphical interface. Still, design and visualization is not taught really. I know how to do backend, but nothing about frontend. That is why I am here. "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 9 Math: 7 Arts: 2 Computer Usage: 9 Programming: 6 Computer Graphics: 5 HCI: 3 UX: 3"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="-288.0456" y="-31.21466"></viz:position>
+        <viz:color r="74" g="100" b="145"></viz:color>
+      </node>
+      <node id="Shagrat" label="Shagrat">
+        <attvalues>
+          <attvalue for="score_range" value="30-40"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Sports"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+To learn how to present data in a estethically and interactive way. Hopefully this could be used when presenting research results in future projects and work. "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 3 Math: 5 Arts: 6 Computer Usage: 7 Programming: 2 Computer Graphics: 1 HCI: 1 UX: 4"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="-152.83452" y="128.49127"></viz:position>
+        <viz:color r="208" g="228" b="242"></viz:color>
+      </node>
+      <node id="Sharku" label="Sharku">
+        <attvalues>
+          <attvalue for="score_range" value="30-40"></attvalue>
+          <attvalue for="x mentioned category 1:" value="~_null"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I expect to learn different ways of representing data."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 2 Statistics: 7 Math: 5 Arts: 4 Computer Usage: 6 Programming: 1 Computer Graphics: 1 HCI: 1 UX: 8"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="241.70412" y="320.72153"></viz:position>
+        <viz:color r="208" g="228" b="242"></viz:color>
+      </node>
+      <node id="Smaug" label="Smaug">
+        <attvalues>
+          <attvalue for="score_range" value="60-70"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Techies"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+To create platforms or products in order to visualize data."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 7 Statistics: 4 Math: 4 Arts: 6 Computer Usage: 10 Programming: 8 Computer Graphics: 5 HCI: 7 UX: 6"></attvalue>
+        </attvalues>
+        <viz:size value="20.0"></viz:size>
+        <viz:position x="184.6015" y="28.74656"></viz:position>
+        <viz:color r="47" g="56" b="91"></viz:color>
+      </node>
+      <node id="Smeagol" label="Smeagol">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="gen_stuff"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+How to process data and provide information in ways that make it accessible while allowing for multiple realizations as you spend time with it."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 3 Math: 5 Arts: 7 Computer Usage: 9 Programming: 3 Computer Graphics: 2 HCI: 3 UX: 8"></attvalue>
+        </attvalues>
+        <viz:size value="27.804878"></viz:size>
+        <viz:position x="-118.46414" y="-230.54732"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Theoden" label="Theoden">
+        <attvalues>
+          <attvalue for="score_range" value="30-40"></attvalue>
+          <attvalue for="x mentioned category 1:" value="design"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Some useful knowledge in how to do programming in this field and how to achieve better designs. Besides, core ideas in how to correctly using visualization to convey information Intuitively and creatively."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 3 Statistics: 5 Math: 8 Arts: 1 Computer Usage: 9 Programming: 2 Computer Graphics: 1 HCI: 1 UX: 3"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="240.57915" y="-336.9181"></viz:position>
+        <viz:color r="208" g="228" b="242"></viz:color>
+      </node>
+      <node id="Theodred" label="Theodred">
+        <attvalues>
+          <attvalue for="score_range" value="60-70"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Foodies"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+How to transform data sets of information into something that's visually comprehensive. "></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 4 Statistics: 8 Math: 8 Arts: 5 Computer Usage: 9 Programming: 7 Computer Graphics: 9 HCI: 8 UX: 4"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="-11.466464" y="141.32056"></viz:position>
+        <viz:color r="47" g="56" b="91"></viz:color>
+      </node>
+      <node id="Thorin" label="Thorin">
+        <attvalues>
+          <attvalue for="score_range" value="60-70"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Arts/entertainment"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Further my understanding of presenting data (especially interactive)
+- find out what works and doesn't in data viz
+- learn about D3.js
+- create a project where I not only learn a lot but which is also useful for my portfolio
+- have fun"></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 7 Statistics: 6 Math: 7 Arts: 2 Computer Usage: 10 Programming: 8 Computer Graphics: 6 HCI: 7 UX: 7"></attvalue>
+        </attvalues>
+        <viz:size value="21.95122"></viz:size>
+        <viz:position x="-141.62146" y="-7.8761663"></viz:position>
+        <viz:color r="47" g="56" b="91"></viz:color>
+      </node>
+      <node id="Ugluk" label="Ugluk">
+        <attvalues>
+          <attvalue for="score_range" value="40-50"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Arts/entertainment"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+I expect to learn the hidden tips and tricks behind information visualization that is not obvious for the untrained eye."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 4 Statistics: 3 Math: 5 Arts: 5 Computer Usage: 8 Programming: 6 Computer Graphics: 4 HCI: 4 UX: 2"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="-44.426464" y="75.088394"></viz:position>
+        <viz:color r="132" g="164" b="204"></viz:color>
+      </node>
+      <node id="Uruk" label="Uruk">
+        <attvalues>
+          <attvalue for="score_range" value="70-80"></attvalue>
+          <attvalue for="x mentioned category 1:" value="Sports"></attvalue>
+          <attvalue for="goals" value="His/her goals with this course: 
+Since, I am specializing in Data Science, I think that it would be really cool to have more skills to better visualize the data using tools like D3js (which I have never used up until now) and get to know more advanced techniques that could be used for visualizing data."></attvalue>
+          <attvalue for="skills" value="Skill set:  
+Information Visualization: 5 Statistics: 8 Math: 7 Arts: 7 Computer Usage: 9 Programming: 9 Computer Graphics: 8 HCI: 7 UX: 7"></attvalue>
+        </attvalues>
+        <viz:size value="23.90244"></viz:size>
+        <viz:position x="-216.22345" y="146.36147"></viz:position>
+        <viz:color r="26" g="30" b="43"></viz:color>
+      </node>
+      <node id="545" label="Arts &amp; Entertainment">
+        <attvalues>
+          <attvalue for="about:" value="These people showed interest in arts and entertainment. They commented things like photography, filmmaking, drawing, TV-shows, movies. "></attvalue>
+        </attvalues>
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-424.66785" y="-128.45076"></viz:position>
+        <viz:color r="255" g="194" b="21"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="244" source="Smeagol" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="2" source="Aragorn" target="gen_stuff">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="3" source="Aragorn" target="Foodies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="4" source="Aragorn" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="5" source="Arwen" target="~_null">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="7" source="Bereg" target="gen_stuff">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="8" source="Bereg" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="10" source="Bereg" target="travel">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="12" source="Bifur" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="13" source="Bilbo" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="15" source="Bofur" target="~_null">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="16" source="Bombadil" target="travel">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="17" source="Bombadil" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="245" source="Rian" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="19" source="Bombadil" target="Foodies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="20" source="Bombadil" target="gen_stuff">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="21" source="Bombur" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="24" source="Bombur" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="246" source="Quickbeam" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="28" source="Borin" target="gen_stuff">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="29" source="Borin" target="travel">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="30" source="Borin" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="31" source="Boromir" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="34" source="Bounder" target="gen_stuff">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="35" source="Bounder" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="36" source="Celeborn" target="gen_stuff">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="37" source="Celeborn" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="247" source="Pippin" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="39" source="Celeborn" target="travel">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="40" source="Celeborn" target="Foodies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="41" source="Damrod" target="~_null">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="248" source="Nessa" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="43" source="Deagol" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="44" source="Denethor" target="~_null">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="45" source="Dorlas" target="~_null">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="249" source="Merry" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="47" source="Dwalin" target="travel">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="250" source="Mauhur" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="49" source="Eldarion" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="50" source="Elendil" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="251" source="Maiar" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="53" source="Elendil" target="games">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="54" source="Elendur" target="~_null">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="55" source="Elrond" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="56" source="Elrond" target="games">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="57" source="Elrond" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="252" source="Gollum" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="61" source="Eomer" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="253" source="Gimli" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="63" source="Eothain" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="64" source="Eothain" target="games">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="254" source="Freda" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="66" source="Eowyn" target="travel">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="69" source="Faramir" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="70" source="Faramir" target="Foodies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="255" source="Faramir" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="73" source="Ferny" target="gen_stuff">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="74" source="Fili" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="256" source="Eomer" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="79" source="Frodo" target="gen_stuff">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="80" source="Frodo" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="81" source="Galadriel" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="82" source="Galadriel" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="83" source="Gamgee" target="games">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="84" source="Gamgee" target="gen_stuff">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="85" source="Gandalf" target="~_null">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="86" source="Gimli" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="87" source="Gimli" target="Outdoor_Nature">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="90" source="Gollum" target="gen_stuff">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="93" source="Gollum" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="257" source="Bounder" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="95" source="Gollum" target="Foodies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="96" source="Gorbag" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="97" source="Gorbag" target="games">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="258" source="Borin" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="99" source="Gorbag" target="Foodies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="100" source="Grimbold" target="Foodies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="101" source="Grishnakh" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="102" source="Grishnakh" target="Foodies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="103" source="Haldir" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="104" source="Haldir" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="105" source="Haleth" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="259" source="Bombur" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="107" source="Hama" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="108" source="Hardang" target="~_null">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="109" source="Idril" target="~_null">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="110" source="Irolas" target="gen_stuff">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="111" source="Irolas" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="112" source="Irolas" target="games">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="260" source="Theoden" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="114" source="Isildur" target="games">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="261" source="Lindir" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="262" source="Frodo" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="117" source="Kili" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="118" source="Kili" target="Foodies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="119" source="Legolas" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="120" source="Legolas" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="121" source="Legolas" target="Outdoor_Nature">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="263" source="Ferny" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="124" source="Lindir" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="125" source="Lurtz" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="264" source="Elendil" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="127" source="Lurtz" target="Foodies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="265" source="Bilbo" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="129" source="Madril" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="130" source="Maiar" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="131" source="Maiar" target="gen_stuff">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="134" source="Maiar" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="135" source="Mauhur" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="266" source="Bifur" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="137" source="Mauhur" target="gen_stuff">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="140" source="Mauhur" target="games">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="141" source="Merry" target="travel">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="144" source="Merry" target="Foodies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="145" source="Morwen" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="146" source="Morwen" target="games">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="267" source="Bereg" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="149" source="Nessa" target="Outdoor_Nature">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="268" source="Balin" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="153" source="Ohtar" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="154" source="Ohtar" target="gen_stuff">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="155" source="Ohtar" target="games">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="156" source="Ohtar" target="Outdoor_Nature">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="157" source="Ohtar" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="269" source="Aldor" target="546">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="159" source="Oin" target="gen_stuff">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="160" source="Otho" target="~_null">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="165" source="Pippin" target="games">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="166" source="Pippin" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="168" source="Quickbeam" target="travel">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="171" source="Rian" target="games">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="175" source="Sam" target="~_null">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="176" source="Sauron" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="178" source="Sauron" target="travel">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="179" source="Shagrat" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="182" source="Sharku" target="~_null">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="183" source="Smaug" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="184" source="Smeagol" target="gen_stuff">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="185" source="Smeagol" target="games">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="189" source="Smeagol" target="Foodies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="191" source="Theoden" target="games">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="192" source="Theodred" target="Foodies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="193" source="Theodred" target="Techies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="195" source="Thorin" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="197" source="Ugluk" target="games">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="198" source="Ugluk" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="199" source="Uruk" target="Sports">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="200" source="Uruk" target="Foodies">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="202" source="Shagrat" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="203" source="Smeagol" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="204" source="Rian" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="205" source="Quickbeam" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="206" source="Pippin" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="207" source="Nessa" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="208" source="Merry" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="209" source="Mauhur" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="210" source="Maiar" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="211" source="Gollum" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="212" source="Gimli" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="213" source="Freda" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="214" source="Faramir" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="215" source="Eomer" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="216" source="Bounder" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="217" source="Borin" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="218" source="Bombur" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="219" source="Uruk" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="220" source="Ugluk" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="221" source="Thorin" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="222" source="Sauron" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="223" source="Pelendur" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="224" source="Oin" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="225" source="Morwen" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="226" source="Madril" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="227" source="Lurtz" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="228" source="Lindir" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="229" source="Kili" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="230" source="Isildur" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="231" source="Irolas" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="232" source="Haleth" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="233" source="Gorbag" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="234" source="Ferny" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="235" source="Eowyn" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="236" source="Eothain" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="237" source="Elendil" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="238" source="Eldarion" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="239" source="Dwalin" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="240" source="Deagol" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="241" source="Celeborn" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="242" source="Bombadil" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+      <edge id="243" source="Aldor" target="545">
+        <viz:color r="177" g="233" b="250"></viz:color>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
