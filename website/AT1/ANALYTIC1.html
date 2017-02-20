@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Analytic Trail 1</title>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Quicksand:300,700" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="style.css">
+
+
+</head>
+<body>
+<nav id="menu">	
+		<ul>
+		<li> <a  href="../index.html"> Back to Home </a></li>
+		<li> <a href="ANALYTIC1.html"> Analytic Trail 1 </a></li>
+		 <li> <a href="../AT2/ANALYTIC2.html"> Analytic Trail 2 </a></li>
+        <li> <a   href="../yearpick.html"> Interactive Tool </a></li>
+        <li> <a   href="../learning.html"> Learning </a></li>
+		</ul>    
+</nav>
+</div>
+
+	<div class="header">
+	<h1> Analytic Trail 1 </h1>
+	<h1> How does women's right relate to acceptance of homosexuality? </h1>
+
+	<h2> In this project I will investigate how homosexuals acceptance and women’s right interact in a society. In order to do that,  I crossed 8 variables avaiable in the World Value Survey database. I cleaned and treated the data, finding  quotients, so I had one unique number to compare each country. I also normalized the quotients, so the scale in each different variable is more relatable.  Here it's possible to see each variable and what the data is telling. </h2>
+
+
+<div class="quo" >	
+
+	<li> <strong>  V45 When jobs are scarce, men have a priority. </strong> <br>
+	Number of people who agree/number of people who disagree. Bigger numbers mean men have a higher priority.
+	<br>
+	<br>
+
+	<li> <strong>v47 There is a problem in women earning more than men </strong> <br>
+	Number of people who agree/number of people who disagree. Bigger numbers mean women with higher salaries can be a problem.
+	<br>
+	<br>
+
+
+	<li><strong>V51 Men make better decision than women politically </strong> <br>
+	Number of people who agree/number of people who disagree. Bigger numbers mean men make better decisions.
+	<br>
+	<br>
+
+	<li><strong>V53 Men make better business executive than woman </strong> <br>
+	Number of people who agree/number of people who disagree. Bigger numbers mean men make better executives.
+	<br>
+	<br>
+
+	<li><strong>V139 Democracy: women have the same right as men </strong> <br>
+	% of people who said women participation is crucial for a country democracy.
+	<br>
+	<br>
+
+	<li><strong>V48 Having a job is the best way for a woman to be independent </strong> <br>
+	Number of people who agree/number of people who disagree. Bigger numbers mean having job is more relevant for a woman.
+	<br>
+	<br>
+
+	<li><strong>V40 Would not like to have as neighbors homosexuals </strong> <br>
+	Number of people who mentioned homosexuals are not good neighbors/number of people who did not mentioned. Bigger numbers mean homosexuality is more accepted.
+	<br>
+	<br>
+
+	<li><strong>V203 Justifiable: homosexuality </strong> <br>
+	The mean answer, nn a scale where 0 means homosexuality is never justifiable and 10 means it’s always justifiable. 
+	</div>
+	<br>
+	
+	</div>
+
+	<h2> These are the countries in the investigation, and also the time period I am investigating. </h2>
+
+
+<div class="paises">
+</div>
+<!-- <tr><ul>
+	    <li>Argentina
+		 <li>Armenia
+		 <li>Brazil
+		 <li>Colombia
+		 <li>Chile
+		 <li>China
+		 <li>Ecuador
+		 <li>Egypt
+		 <li>Germany
+		 <li>Ghana
+		 <li>Hong Kong 
+	    <li>Iraq
+		<li> Japan
+		<li> Kuwait
+		<li> Lebanon
+		<li> Mexico
+		 <li>Morocco
+		<li> Netherlands
+		<li> Nigeria
+		<li> Pakistan
+		<li> Palestine
+		 <li> Peru
+	 <li>Qatar
+	  <li>Russian Federation
+	  <li>Rwanda
+	  <li>Spain
+	  <li>Sweden
+	  <li>Turkey
+	  <li>United States
+	  <li>Uruguay
+	  <li> Yemen
+  </tr>
+</DIV>
+-->
+<div>
+<img  src='countrycolor.jpg' style="width:700px; border: 8px solid rgba(242,179,61,1)";>
+</div>
+
+<div class="waves" >	
+
+<li>Wave 1: 1989-1993
+<li>Wave 2: 1994-1998
+<li>Wave 3: 1999-2004
+<li>Wave 4: 2005-2009
+<li> Wave 5: 2010-2010
+</div>
+
+<div class="tableau">
+<br>
+<h2> With this scales, I used Tableau to create parallel coordinates which were used as a tool to find correlations between variables. I created different parallel coordinates for each time period. </h2> 
+
+	<div>
+	<img  src='Graphs.jpg' style="width:700px; border: 8px solid rgba(242,179,61,1);">
+	</div>
+
+<div class="rodape" id="rodape" style="font-size: 12px; padding-top: 20px; padding-bottom: 35px; padding-left: 50px; padding-right: 50px; text-align: center;" > It is important to notice that not every time period has the same data. That is why some of them ends with straight lines, they actually mean lack of data. 
+
+</div>
+
+
+</div class="result" style="padding-top: 30px; padding-right: 20px; padding-left: 20px;" >
+ Although the number of countries can make it a little complicated, we can see that there are big variations between the variables. We can find some negative correlations. For example, countries with a higher V40 number (meaning they accept more homosexuals) tend to have a lower v45 number (which means they don't think men have priority in a scarce job market). In other words, we can say that countries tend to be more "progressive" as a hole, that is: if they accept homosexuality, women tend to be more equal as men. It can be that both variables are a measure of "macho" traits in a society, but this needs further investigaion.  
+<br>
+<br>
+<br>
+</div>
+<h2> To make it clearer, here we can see paralel coordinates with only 5 countries (Brazil, Iraq, Kuwait, Spain, Sweden). </h2>	 
+
+	<div>
+	<img  src='countrycomp.jpg' style="width:700px; border: 8px solid rgba(242,179,61,1);">
+	</div>
+
+<h2> With this smaller dataset we can see that there is indeed a correlation. The countries curves are almost inverted, showing that the ones that better accept homosexuality are also the ones where women are more equal to men. </h2> 
+
+</body>
+</html>

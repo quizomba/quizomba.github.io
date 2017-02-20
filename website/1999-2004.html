@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Values Correlation Tool (2010-2014)</title>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Quicksand:300,700" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="stylesheet" href="lib/slickgrid/slick.grid.css" type="text/css"/>
+  <link rel="stylesheet" href="lib/slickgrid/jquery-ui-1.8.16.custom.css" type="text/css"/>
+  <link rel="stylesheet" href="lib/slickgrid/examples.css" type="text/css"/>
+  <link rel="stylesheet" href="lib/slickgrid/slick.pager.css" type="text/css"/>
+</head>
+<body>
+  <div class="topo"> 
+      <nav  id="menu" style="padding-left: 375px; padding-top: 20px;  font-weight: bold; align-content: center;">
+       <ul>
+        <li> <a  href="index.html"> Back to Home </a></li>
+        <li> <a href="AT1/ANALYTIC1.html"> Analytic Trail 1 </a></li>
+        <li> <a href="AT2/ANALYTIC2.html"> Analytic Trail 2 </a></li>
+        <li> <a href="yearpick.html"> Interactive Tool </a></li>
+        <li> <a href="learning.html"> Learning </a></li>
+        </ul>      
+    </nav>
+    <br> <br>
+    <div  id="header-text"> 
+      <h1>Values Correlation Tool</h1>
+      <h2>Trying to help you visualize the intersection between homosexuality acceptance and women's rights.</h2>
+   
+    <div id="menu" style="padding-left: 350px;">
+    <ul>   
+    <li> <a   href="1989-1993.html"> <toolip> Wave 1 1989-1993 </a></li>
+    <li> <a  href="1994-1998.html"> Wave 2 1994-1998  </a></li> 
+    <li> <a   href="1999-2004.html"> Wave 3 1999-2004 </a><li> 
+    <li> <a  href="2005-2009.html"> Wave 4 2005-2009  </a> </li>
+    <li>  <a  href="2010-2014.html"> Wave 5 2010-2014  </a> </li>
+    </div>
+    
+
+ <div class="main" style="padding-top: 45px;">
+
+  <table>
+  <tr>
+  <td valign="top"> <strong>V51</strong> Men make better decision than women politically </td>
+  <td valign="top"> <strong>V53</strong>Men make better business executive than woman </td>
+  <td valign="top"> <strong>V139</strong> Democracy: women have the same right as men </td>
+  <td valign="top"> <strong> V48 </strong> Having a job is the best way for a woman to be independent </td>
+  <td valign="top"> <strong> V45 </strong> When jobs are scarce, men have a priority. </td>
+  <td valign="top"> <strong>V47</strong> There is a problem in women earning more than men </td>
+  <td valign="top"> <strong>V139</strong> Democracy: women have the same right as men </td>
+  <td valign="top"> <strong>V40</strong> Would not like to have as neighbors homosexuals </td>
+  <td valign="top"> <strong>V203</strong> Justifiable: homosexuality  </td>
+  <td valign="top"> <strong>(YS)</strong> Years in School  </td>
+  <td valign="top"> <strong>(PC)</strong> Primary Completion Rate </td>  
+  <td valign="top"> <strong>(LW)</strong> Ratio of young literate females to males </td>
+  <td valign="top"> <strong>(GBR)</strong> Ratio of girls to boys in primary and secondary education (%)  </td>
+  <td valign="top"> <strong>(SW)</strong> Suicide Among Women </td>
+  <td valign="top"> <strong>(MW)</strong> Murdered women </td>
+  <td valign="top"> <strong>(CM)</strong> Contraceptive Methods </td>
+  </tr>
+  </table>
+
+ 
+  </div>
+</ul>
+ </div>
+
+  <link rel="stylesheet" type="text/css" href="../d3.parcoords.css">
+  
+
+  <style>
+  /* data table styles */
+  #grid { height: 100%; width: 100%; padding-top: 10px;}
+  .row  { clear: left; font-size: 10px; line-height: 15px; height: 18px; font-family: helvetica, arial, sans-serif; text-align: center; }
+  .header { clear: left; font-size: 12px; line-height: auto; height: auto; font-family: helvetica, arial, sans-serif; word-break: break-all; text-align: center; padding-top: 3px;}
+  .header {border-top: 1px solid; margin-top: 10px;}
+  .row:nth-child(odd) { background: rgba(0,50,0,0.1); }
+  .row: {border: solid};
+  .header { font-weight: bold; hyphens: auto;}
+  .cell { float: left; overflow: hidden;  width: 100px; height: auto;}
+  .col-0 { font-size:12px; line-height:20px; font-weight: bold; width: 70px; }
+
+
+  </style>
+  <script src="lib/d3.min.js"></script>
+  <script src="../d3.parcoords.js"></script>
+  <script src="lib/divgrid.js"></script>
+  <div id="example" class="parcoords" style="height:500px;"></div>
+  <div id="grid"></div>
+  <script id="brushing">// quantitative color scale
+
+
+
+
+
+var blue_to_brown = d3.scale.category20c()
+    
+  var color = function(d) { return blue_to_brown(d['Region']); }; 
+
+  var parcoords = d3.parcoords()("#example")
+    .color(color)
+    .alpha(100);
+
+  // load csv file and create the chart
+  d3.csv('data/gpm_9904.csv', function(data) {
+    parcoords
+      .data(data)
+      .hideAxis([''])
+      .render()
+      .brushMode("1D-axes");  // enable brushing
+
+    // create data table, row hover highlighting
+    var grid = d3.divgrid();
+    d3.select("#grid")
+      .datum(data.slice(0,50))
+      .call(grid)
+      .selectAll(".row")
+      .on({
+        "mouseover": function(d) { parcoords.highlight([d]) },
+        "mouseout": parcoords.unhighlight
+      });
+
+
+  // update data table on brush event
+    parcoords.on("brush", function(d) {
+      d3.select("#grid")
+        .datum(d.slice(0,10))
+        .call(grid)
+        .selectAll(".row")
+        .on({
+          "mouseover": function(d) { parcoords.highlight([d]) },
+          "mouseout": parcoords.unhighlight
+        });
+    });
+  });
+
+
+  </script>
+  
+</body>
+</html>

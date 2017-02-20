@@ -1,0 +1,135 @@
+body {
+  font-family: "Quicksand", Arial, Helvetica, sans-serif;
+  margin: 50px auto 20px;
+  width: 820px;
+  background: #fcfcfc;
+  line-height: 1.45em;
+  background-color: #8B8C98;
+  color: #ffffff;
+    align-items: center;
+  text-align: center;
+
+}
+
+header {
+  padding-top: 30px;
+  background-color: #f1f2f3;
+  text-align: center;
+  align-items: center;
+}
+
+.question{
+  background-color: red;
+}
+
+#table {
+  border: 2px solid rgba(242,179,61,0.5);
+  background-color: #ffffff;
+  font-size: 10px;
+  text-align: center;
+  width: 500px;
+  object-position: center;
+} 
+
+ul {
+  list-style-type: none
+}
+
+h1 {
+  font-family: "Quicksand"
+  font-size: 30px;
+  font-weight: : bold;
+  padding-right: 50px;
+  padding-left: 50px;
+  line-height: 35px;
+
+}
+
+h2 {
+  font-size: 14px;
+  font-weight: normal;;
+
+}
+
+.result {
+  font-size: 10px;
+  font-weight: normal;
+  padding-top: 30px;
+  width: 30px;
+
+}
+.paises {
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    
+}
+
+#menu ul {
+  text-align: center;
+  font-family: "Open Sans"
+  font-size: 12px;
+  display: inline;
+  border: 5px solid rgba(242,179,61,0.7)
+  list-style-type: none
+ }
+
+ a {
+  color: #ffffff;
+  padding: 10px;
+ }
+
+ a:hover{
+  text-transform: uppercase;
+  font-weight: bold;
+  color: rgb(242,179,61)
+ }
+
+
+#menu  ul li { display: inline; }
+
+
+.waves {
+    -webkit-column-count: 5; /* Chrome, Safari, Opera */
+    -moz-column-count: 5; /* Firefox */
+    column-count: 5;
+    border: 5px solid rgba(242,179,61,0.7);
+    width: 100%;
+      list-style-type: none
+}
+
+
+.quo {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+    border: 2px solid rgba(242,179,61,0.5);
+    padding: 25px;
+    align-items: center;
+    text-align: center;
+    list-style-type: none
+}
+
+.tableau {
+  align-items: center;
+  text-align: center;
+  font-size: 100px;
+}
+
+.rodape {
+  font-size: 10px;
+  text-align: center;
+
+}
+
+img {
+   border: 20px solid rgba(242,179,61,0.5);
+
+}
+
+.p {
+  width: 560px;
+  font-size: 10px;
+  text-align: center;
+}
+

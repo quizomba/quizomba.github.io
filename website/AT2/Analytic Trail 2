@@ -1,0 +1,33 @@
+ Analytic Trail 2
+How does women's right relate to acceptance of homosexuality?
+In this project I will investigate how homosexuals acceptance and womenâ€™s right interact in a society. In order to do that, I crossed 8 variables avaiable in the World Value Survey database. I cleaned and treated the data, finding quotients, so I had one unique number to compare each country. I also normalized the quotients, so the scale in each different variable is more relatable. Here it's possible to see each variable and what the data is telling.
+Here the datasets are different, as the analytic tool. I used d3 and also added Gapminder data. 
+
+
+
+Years in schoo
+
+	<li> <strong> Years in School (YS) </strong> <br>
+	The average number of years of school attended by all women between 15 and 44. I made an average of the years in the periods.
+	<br> <br>
+
+	<li> <strong> Suicide Among Women (SW) </strong> <br>
+	Mortality due to self-inflicted injury among women, per 100 000 standard population. I made an average of the years in the periods.
+	<br> <br>
+
+	<li> <strong> Ratio of young literate females to males (LW) </strong> <br>
+	Ratio of young literate females to males is the percentage of females to males ages 15-24 who can, with understanding, read and write a short, simple statement on their everyday life. I made an average of the years in the periods.
+	<br> <br>	
+
+	<li> <strong> Murdered women (MW) </strong> <br>
+	Mortality among women due to inter-personal violence, per 100 000 standard population. I made an average of the years in the periods.
+	<br> <br>	
+
+	<li> <strong> Contraceptive Methods (CM) </strong> <br>
+	 The percentage of women who are practicing, or whose sexual partners are practicing, any form of contraception. It is usually measured for married women ages 15-49 only. I made an average of the years in the periods.
+	<br> <br>	
+
+	<li> <strong> Ratio of girls to boys in primary and secondary education (%) (GBR) </strong> <br>
+	Average between the avaiable years in the periods.
+	<br> <br>	
+
